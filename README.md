@@ -66,3 +66,7 @@ an informal number is from the set X of informal numbers.
 2. -1 + ie =| 0 <=> x =| x
 
 3. e^2 + ie =| 0 <=> {end of induction?}
+
+Theory/Algebra?
+
+axiom 1. {hard dirac} =| 2ie =| e^2 + ie =| +/- 1 + ie
