@@ -32,7 +32,7 @@ so ...
 
 e^i = +/- 1
 
-Scratch R-Algebra:
+# Scratch R-Algebra:
 
 {hard dirac} =| 2ie
 
@@ -46,7 +46,7 @@ e^2 =| 1
 
 e^2 =| +/- 1
 
-Group Theory of Informal Math.
+# Group Theory of Informal Math.
 
 e^2 =| +> 1
 0 + 2ie =| e^2 + ie
@@ -67,7 +67,7 @@ an informal number is from the set X of informal numbers.
 
 3. e^2 + ie =| 0 <=> {end of induction?}
 
-Theory/Algebra?
+# Theory/Algebra?
 
 [ Write Here ]
 
@@ -76,6 +76,12 @@ axiom 1. {hard dirac} =| 2ie =| e^2 + ie =| +/- 1 + ie
 Informal Calculus
 
 e^2 =| +> 1 =| 1-1 =| 0 =| 1/0 =| x =| ie =| {hard dirac}
+
+# Informal Algebra Scratch...
+
+
+
+
 
 -< 1 |=| ie ?
 
