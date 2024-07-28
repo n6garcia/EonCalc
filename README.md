@@ -104,3 +104,9 @@ e^2 =| +>x |=| 2x
 Geometric Reductive Proof?
 
 {Endian Math} =* {Induction}
+
+= * =| =|
+
+then...
+
+E =* x |=| x |=| 0 *= I
