@@ -81,5 +81,7 @@ e^2 =| +> 1 =| 1-1 =| 0 =| 1/0 =| x =| ie =| {hard dirac}
 
 +> 1 |=| -< 1 ?
 
-## Informal Algebra Scratch...
-## Informal Algebra Scratch...
+## Informal Algebra Scratch ...
+
++> 1 |=| -< 1
++> 1 =| 0 + 0/0 =| 0+0 =| {hard dirac} =| 0-0 =| 0 - 0/0 =|-< 1
