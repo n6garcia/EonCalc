@@ -99,6 +99,8 @@ e^2 =| 1-1
 e^2 |=| x-x =| x+x
 e^2 =| +>x |=| 2x
 
-
 ## Zermelo-Set Theory Completness Proof
 
+Geometric Reductive Proof?
+
+{Endian Math} =* {Induction}
