@@ -93,3 +93,5 @@ e^2 =| +> 1 =| 1-1 =| 0 =| 1/0 =| x =| ie =| {hard dirac}
 +> 1 =| 1
 -< 1 =| -1
 
+## Zermelo-Set Theory Completness Proof
+
