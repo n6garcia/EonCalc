@@ -32,7 +32,7 @@ so ...
 
 e^i = +/- 1
 
-# Scratch R-Algebra:
+## Scratch R-Algebra:
 
 {hard dirac} =| 2ie
 
@@ -46,7 +46,7 @@ e^2 =| 1
 
 e^2 =| +/- 1
 
-# Group Theory of Informal Math.
+## Group Theory of Informal Math.
 
 e^2 =| +> 1
 0 + 2ie =| e^2 + ie
