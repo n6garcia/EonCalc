@@ -4,7 +4,7 @@ EonCalc is a cython project for the brand new reductive proof method I've devise
 
 I am calling this Mathematic Reductive Algebra.
 
-I have devised a superset of Algebra that only keeps one rule, x=x ...
+I have devised a superset of Algebra that only keeps one rule, x=|x ...
 
 ## TRANSCRIBED NOTES (be warned)
 A real number r could be 2.2 or pi. pi is irrational. A collection of irrational imaginary numbers is an informal number.
@@ -40,7 +40,7 @@ e^2 =| 1
 
 2ei =| e^2 + ie
 
-0 + 2ei = e^2 + ie = -1 +ie
+0 + 2ei =| e^2 + ie =| -1 +ie
 
 =>
 
