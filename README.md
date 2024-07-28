@@ -69,4 +69,14 @@ an informal number is from the set X of informal numbers.
 
 Theory/Algebra?
 
+[ Write Here ]
+
 axiom 1. {hard dirac} =| 2ie =| e^2 + ie =| +/- 1 + ie
+
+Informal Calculus
+
+e^2 =| +> 1 =| 1-1 =| 0 =| 1/0 =| x =| ie =| {hard dirac}
+
+-< 1 |=| ie ?
+
++> 1 |=| -< 1 ?
