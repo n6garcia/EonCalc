@@ -13,7 +13,7 @@ an imaginary irrational number breaks vector math.
 vector math on IR/Q numbers is still an "open" prize within mathematics.
 
 hypothesis:
-the unit element of IR/Q is i?\
+the unit element of IR/Q is i?
 
 2x2 cases enumerated:
 [ i 1 | 1 i ] x [ i 1 | 1 i ] = [ 0 2i | 2i 0 ]
@@ -65,4 +65,4 @@ an informal number is from the set X of informal numbers.
 
 2. -1 + ie =| 0 <=> x =| x
 
-3. e 
+3. e^2 + ie =| 0 <=> {end of induction?}
