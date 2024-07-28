@@ -96,7 +96,9 @@ e^2 =| +> 1 =| 1-1 =| 0 =| 1/0 =| x =| ie =| {hard dirac}
 e^2 =| +> 1
 e^2 =| 0
 e^2 =| 1-1
-e^2 |=|
+e^2 |=| x-x =| x+x
+e^2 =| +>x |=| 2x
+
 
 ## Zermelo-Set Theory Completness Proof
 
