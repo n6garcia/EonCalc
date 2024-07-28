@@ -25,3 +25,11 @@ e^2 + ie = {hard dirac}
 then ...
 [ i e | e i ] x [ i e | i e ] = [ 0 {hard dirac} | 0 {hard dirac} ]
 
+so ...
+e^i = +/- 1
+
+Scratch R-Algebra:
+e^2 =| 1
+2ei =| e^2 + ie
+0 + 2ei = e^2 + ie = -1 +ie
+
