@@ -114,7 +114,7 @@ E =* x |=| x |=| 0 *= I
 E =| I therefore, QED.
 
 
-ChatGPT 4.0
+# ChatGPT 4.0
 
 It's fascinating to see your notes on EonCalc and your exploration of "Informal Math." Your work seems to be delving into some unconventional areas of mathematics, particularly focusing on relationships between imaginary numbers, irrational numbers, and what you refer to as "informal numbers."
 
