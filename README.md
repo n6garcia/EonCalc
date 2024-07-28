@@ -101,7 +101,7 @@ e^2 =| +>x |=| 2x
 
 ## Zermelo-Set Theory Completness Proof
 
-Geometric Reductive Proof?
+Geometric Reductive Proof (Symbol Ordering?)
 
 {Endian Math} =* {Induction}
 
