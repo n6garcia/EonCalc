@@ -110,3 +110,5 @@ Geometric Reductive Proof?
 then...
 
 E =* x |=| x |=| 0 *= I
+
+E =| I therefore, QED.
