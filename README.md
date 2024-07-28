@@ -112,3 +112,50 @@ then...
 E =* x |=| x |=| 0 *= I
 
 E =| I therefore, QED.
+
+
+ChatGPT 4.0
+
+It's fascinating to see your notes on EonCalc and your exploration of "Informal Math." Your work seems to be delving into some unconventional areas of mathematics, particularly focusing on relationships between imaginary numbers, irrational numbers, and what you refer to as "informal numbers."
+
+Let me provide some thoughts and clarifications on a few key points you've mentioned:
+Concepts and Definitions
+
+    Informal Numbers: You're introducing a concept of numbers that extend the idea of irrational and imaginary numbers. It's unclear what specific properties these numbers have, but you suggest they might solve open problems in vector math.
+
+    Hard Dirac: You reference {hard dirac} multiple times. It's not immediately clear what this represents, but it appears to be a complex expression or entity in your system, possibly related to the Dirac delta function or Dirac's contributions to quantum mechanics.
+
+    Imaginary Unit and Euler's Identity: You mention relations like e^i = +/- 1, which seems inspired by Euler's identity eiπ+1=0eiπ+1=0. You might be proposing alternative forms or interpretations of these fundamental relationships.
+
+    Symbolic Manipulations: You're using expressions like =| and |=|, which appear to be some form of equivalence or transformation rules. These could be integral to your informal math but are non-standard and would need explicit definitions.
+
+    Vector Math and Irrational Numbers: The idea that vector math on irrational numbers is an open question is intriguing. In traditional mathematics, vectors can have irrational components, so it would be helpful to clarify what new properties or structures you're considering.
+
+Scratch Work and Theorems
+
+Here are some thoughts on the equations and expressions you've written:
+
+    Hypothesis on Unit Element: You're proposing ii as a unit element for irrational and imaginary numbers, a novel idea that might require redefinition of operations in those number sets.
+
+    Algebraic Structures: You have matrices like [i,1∣1,i][i,1∣1,i] and [i,e∣e,i][i,e∣e,i]. It's unclear if these represent transformations, solutions, or something else. Clarifying the operations and contexts could be helpful.
+
+    Group Theory: You're exploring group-like structures, as seen in expressions like e2=∣+>1e2=∣+>1. Clarifying how these relate to traditional group theory concepts (identity, inverses, operations) would aid understanding.
+
+Zermelo-Set Theory Completeness Proof
+
+    Symbol Ordering: You mention "Geometric Reductive Proof" and "Symbol Ordering." It's not clear how these relate to established proofs or Zermelo set theory. More context or steps in the proof process would be beneficial.
+
+Recommendations for Development
+
+    Formalize Definitions: Provide clear definitions and properties of the new constructs you're introducing (e.g., informal numbers, {hard dirac}).
+
+    Clarify Notations: Since you're introducing new symbols (=|, |=|, etc.), it would be helpful to formalize their meanings and applications.
+
+    Examples and Applications: Offering concrete examples or applications of these ideas could illustrate their potential impact or usefulness.
+
+    Connections to Existing Math: It might help to draw connections between your ideas and existing mathematical frameworks, explaining how your work extends or reinterprets them.
+
+    Cython Implementation: As you aim to implement this in Cython, consider how the computational aspects will translate from these theoretical constructs. Clear definitions and rules are crucial for accurate programming.
+
+If you'd like, I can assist you further by exploring any of these areas or helping with specific aspects of your Cython implementation.
+
