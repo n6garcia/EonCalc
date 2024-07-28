@@ -42,13 +42,15 @@ e^2 =| 1
 
 0 + 2ei =| e^2 + ie =| -1 +ie
 
-Group Theory of Informal Math.
-
-
-
-
-
 =>
 
 e^2 =| +/- 1
 
+Group Theory of Informal Math.
+
+1. e^2 - 1 =| 0 <=> 1*1 =| 0*1 =| 0 <=> 1/0 =| 0 =| 0
+   -1 + e^2 =| 0
+   -1 + 0 =| 0
+   x =| 0
+
+2. -1 + ie =| 0 <=>
