@@ -67,7 +67,7 @@ an informal number is from the set X of informal numbers.
 
 3. e^2 + ie =| 0 <=> {end of induction?}
 
-# Theory/Algebra?
+## Theory/Algebra
 
 [ Write Here ]
 
@@ -77,12 +77,9 @@ Informal Calculus
 
 e^2 =| +> 1 =| 1-1 =| 0 =| 1/0 =| x =| ie =| {hard dirac}
 
-# Informal Algebra Scratch...
-
-
-
-
-
 -< 1 |=| ie ?
 
 +> 1 |=| -< 1 ?
+
+## Informal Algebra Scratch...
+## Informal Algebra Scratch...
