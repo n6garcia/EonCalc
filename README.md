@@ -17,4 +17,11 @@ the unit element of IR/Q is i?\
 
 2x2 cases enumerated:
 [ i 1 | 1 i ] x [ i 1 | 1 i ] = [ 0 2i | 2i 0 ]
+so ...
+e^2 +- 1 = x = 0
+-1 + ie = 0
+e^2 + ie = {hard dirac}
+
+then ...
+[ i e | e i ] x [ i e | i e ] = [ 0 {hard dirac} | 0 {hard dirac} ]
 
