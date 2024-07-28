@@ -48,9 +48,21 @@ e^2 =| +/- 1
 
 Group Theory of Informal Math.
 
+e^2 =| +> 1
+0 + 2ie =| e^2 + ie
+e^2 =| 0
+e^2 =| 1-1
+
+an informal number is from the set X of informal numbers.
+
 1. e^2 - 1 =| 0 <=> 1*1 =| 0*1 =| 0 <=> 1/0 =| 0 =| 0
+   
    -1 + e^2 =| 0
+   
    -1 + 0 =| 0
+   
    x =| 0
 
-2. -1 + ie =| 0 <=>
+2. -1 + ie =| 0 <=> x =| x
+
+3. e 
