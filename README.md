@@ -2,7 +2,7 @@
 
 EonCalc is a cython project for the brand new reductive proof method I've devised!
 
-I am calling this Informal Math.
+I am calling this Informal Math. I hope this will be a competitor to numpy and pytorch.
 
 I have devised a superset of Algebra that only keeps one rule, x=|x ...
 
