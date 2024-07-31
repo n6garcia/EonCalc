@@ -6,7 +6,7 @@ I am calling this Informal Math. I hope this will be a competitor to numpy and p
 
 I have devised a superset of Algebra that surprisingly still keeps one critical rule, x =|x !
 
-# Introduction
+# Complex Number Analysis
 An Informal Number x from X is a complex number with an imaginary component restricted to R/Q.
 
 scratch work:
