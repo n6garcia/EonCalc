@@ -78,7 +78,7 @@ an informal number is from the set X of informal numbers.
 
 [ Write Here ]
 
-axiom 1. {hard dirac} =| 2ie =| e^2 + ie =| +/- 1 + ie
+axiom 1. {hard dirac} =| 2ie =| e^2 + ie =| +/> 1 + ie
 
 ## Informal Calculus
 
