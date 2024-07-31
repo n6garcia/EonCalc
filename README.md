@@ -22,21 +22,21 @@ the unit element of IR/Q is i?
 
 so ...
 
-e^2 +- 1 = x = 0
+e^2 +- 1 = x = 0 ?
 
--1 + ie = 0
+-1 + ie = 0 ?
 
-e^2 + ie = {hard dirac}
+e^2 + ie = {hard dirac} ?
 
 then ...
 
 [ i e | e i ] x [ i e | i e ] = [ 0 {hard dirac} | 0 {hard dirac} ]
 
-so ...
+so,
 
 e^i = +/- 1
 
-how ...
+how,
 
 {hard dirac} =| 2ie
 
