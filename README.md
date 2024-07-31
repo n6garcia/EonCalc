@@ -49,8 +49,11 @@ e^2 =| +/- 1
 ## Group Theory of Informal Math.
 
 e^2 =| +> 1
+
 0 + 2ie =| e^2 + ie
+
 e^2 =| 0
+
 e^2 =| 1-1
 
 an informal number is from the set X of informal numbers.
@@ -90,13 +93,19 @@ e^2 =| +> 1 =| 1-1 =| 0 =| 1/0 =| x =| ie =| {hard dirac}
 +> 2 =| 1 + 1/1 =| 1 + 1
 
 +>2 =| 2
+
 +> 1 =| 1
+
 -< 1 =| -1
 
 e^2 =| +> 1
+
 e^2 =| 0
+
 e^2 =| 1-1
+
 e^2 |=| x-x =| x+x
+
 e^2 =| +>x |=| 2x
 
 ## Zermelo-Set Theory Completness Proof
