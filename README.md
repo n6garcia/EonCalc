@@ -15,11 +15,11 @@ scratch work:
 
 so ...
 
-e^2 +- 1 = x = 0 ?
+e^2 - 1 =| x =| 0 ?
 
--1 + ie = 0 ?
+-1 + ie =| 0 ?
 
-e^2 + ie = {hard dirac} ?
+e^2 + ie =| {hard dirac} ?
 
 then ...
 
