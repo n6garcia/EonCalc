@@ -7,6 +7,8 @@ I am calling this Informal Math. I hope this will be a competitor to numpy and p
 I have devised a superset of Algebra that only keeps one rule, x=|x ...
 
 ## TRANSCRIBED NOTES
+## Flawed R-Algebra:
+
 A real number r could be 2.2 or pi. pi is irrational. A collection of irrational imaginary numbers is an informal number.
 An informal numberis an extension of irrational numbers in irrational and imaginary number theory.
 an imaginary irrational number breaks vector math.
@@ -31,8 +33,6 @@ then ...
 so ...
 
 e^i = +/- 1
-
-## Scratch R-Algebra:
 
 {hard dirac} =| 2ie
 
