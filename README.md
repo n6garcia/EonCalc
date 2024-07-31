@@ -7,15 +7,10 @@ I am calling this Informal Math. I hope this will be a competitor to numpy and p
 I have devised a superset of Algebra that surprisingly still keeps one critical rule, x =|x !
 
 # Introduction
-A real number r could be 2.2 or pi. pi is irrational. A collection of irrational imaginary numbers is an informal number.
-An informal numberis an extension of irrational numbers in irrational and imaginary number theory.
-an imaginary irrational number breaks vector math.
-vector math on IR/Q numbers is still an "open" prize within mathematics.
+An Informal Number x from X is a complex number with an imaginary component restricted to R/Q.
 
-hypothesis:
-the unit element of IR/Q is i?
+scratch work:
 
-2x2 cases enumerated:
 [ i 1 | 1 i ] x [ i 1 | 1 i ] = [ 0 2i | 2i 0 ]
 
 so ...
