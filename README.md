@@ -38,13 +38,13 @@ e^i = +/- 1
 
 e^2 =| 1
 
-2ei =| e^2 + ie
+2ie =| e^2 + ie
 
-0 + 2ei =| e^2 + ie =| -1 +ie
+0 + 2ie =| e^2 + ie =| -1 + ie
 
 =>
 
-e^2 =| +/- 1
+e^2 =| +/> 1
 
 ## Group Theory of Informal Math.
 
