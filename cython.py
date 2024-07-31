@@ -6,7 +6,6 @@
 #
 # --windows [default:linux] - compile target for windows
 # --gdb [default:disabled] - enables cmd debugger
-# --gen-main [default:disabled] - generates c++ from python
 #
 ##
 
@@ -43,6 +42,9 @@ def genbplate():
     return BPLATE
 
 
+srcdir = os.path.abspath(".")
+
+
 def build():
     cpps = []
     obfiles = []
@@ -76,7 +78,7 @@ def build():
             "g++",
             "-shared",
             "-o",
-            "/tmp/obelisk.so",
+            "/tmp/eoncalc.so",
         ]
         + obfiles
         + libs
@@ -85,9 +87,9 @@ def build():
     print(cmd)
     subprocess.check_call(cmd)
 
-    exe = "/tmp/obelisk"
+    exe = "/tmp/eoncalc"
     cmd = [
-        C,
+        CC,
         "-o",
         exe,
     ]
@@ -99,3 +101,26 @@ def build():
 
 
 build()
+
+if "--gdb" in sys.argv:
+    cmd = ["gdb", "/tmp/eoncalc"]
+else:
+    cmd = ["/tmp/eoncalc"]
+
+print(cmd)
+
+subprocess.check_call(cmd, cwd=srcdir)
+# sys.exit()
+
+## TODO: get working from python for testing
+import ctypes
+
+os.chdir(srcdir)
+
+eoncalc_so = "/tmp/eoncalc.so"
+
+dll = ctypes.CDLL(eoncalc_so)
+print(dll)
+
+print(dll.main)
+dll.main()
