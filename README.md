@@ -1,6 +1,6 @@
 # EonCalc
 
-EonCalc is a cython project for the brand new reductive proof method I've devised!
+EonCalc is a cython project for the brand new reductive proof (R-Algebra) method I've devised!
 
 I am calling this Informal Math. I hope this will be a competitor to numpy and pytorch.
 
