@@ -52,7 +52,7 @@ def build():
     open("/tmp/gen.main.cpp", "wb").write(genmain().encode("utf-8"))
     file = "/tmp/gen.main.cpp"
     print(file)
-    ofile = "/tmp/%s.o" % file
+    ofile = "%s.o" % file
     obfiles.append(ofile)
     cpps.append(file)
     cmd = [
@@ -62,7 +62,7 @@ def build():
         "-fPIC",  ## position indepenent code
         "-o",
         ofile,
-        os.path.join(srcdir, file),
+        os.path.join(file),
     ]
     print(cmd)
     subprocess.check_call(cmd)
@@ -75,7 +75,7 @@ def build():
     cmd = (
         [
             #'ld',
-            "g++",
+            C,
             "-shared",
             "-o",
             "/tmp/eoncalc.so",
@@ -89,7 +89,7 @@ def build():
 
     exe = "/tmp/eoncalc"
     cmd = [
-        CC,
+        C,
         "-o",
         exe,
     ]
@@ -124,3 +124,5 @@ print(dll)
 
 print(dll.main)
 dll.main()
+
+print("hello!")
