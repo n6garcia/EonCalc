@@ -24,7 +24,7 @@ def genmain():
 
     o.extend(
         [
-            "int main(int argc, char **argv) {",
+            "int main() {",
             BPLATE,
         ]
     )
@@ -35,8 +35,10 @@ def genmain():
 
 
 def genbplate():
-    BPLATE = """
-    
+    BPLATE = r"""
+    int a = 10 + 14;
+    //std::cout << a << std::endl;
+    return 0;
     """
 
     return BPLATE
@@ -49,8 +51,8 @@ def build():
     cpps = []
     obfiles = []
 
-    open("/tmp/gen.main.cpp", "wb").write(genmain().encode("utf-8"))
-    file = "/tmp/gen.main.cpp"
+    open("/tmp/gen.ec.main.cpp", "wb").write(genmain().encode("utf-8"))
+    file = "/tmp/gen.ec.main.cpp"
     print(file)
     ofile = "%s.o" % file
     obfiles.append(ofile)
