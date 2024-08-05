@@ -153,6 +153,9 @@ e^sqrt(-1) = e^i = +/- 1 = sqrt(1)
 
 sqrt(1) = e^sqrt(-1)
 
+sqrt(n) = e^sqrt(-n)
+
+
 ## Zermelo-Set Theory Completeness Proof
 
 Geometric Reductive Proof (Symbol Ordering)
