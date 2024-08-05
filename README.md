@@ -113,23 +113,23 @@ e^i = +/- 1 *(1)
 
 e^i*pi + 1 = 0  # eulers identity
 
-(+/- 1)^pi + 1 = 0
+(+/- 1)^pi + 1 =| 0
 
-(+/- 1) + 1 = 0
+(+/- 1) + 1 =| 0
 
-e^i + 1 = 0
+e^i + 1 =| 0
 
-e^i = -1
+e^i =| -1
 
 iln(e) = ln(-1)
 
 iln(e) = i*pi # ln(-1) = i*pi
 
-i = i*pi
+i = i*pi # ln(e) = 1
 
 =>
 
-sqrt(1) = +/- 1 = e^i = -1
+sqrt(1) = +/- 1 = e^i =| -1
 
 => 
 
