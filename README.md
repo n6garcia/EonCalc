@@ -126,10 +126,7 @@ iln(e) = ln(-1)
 iln(e) = i*pi # ln(-1) = i*pi
 
 i = i*pi
-
-=>
-
-sqrt(1) + 1 = e^i + 1 = 0
+ 
 
 ## Zermelo-Set Theory Completness Proof
 
