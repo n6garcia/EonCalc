@@ -143,6 +143,11 @@ sqrt(-1) = i = i*pi = iln(e) = ln(-1) = ln(e^i)
 
 e^sqrt(-1) = e^i = e^ln(e^i)
 
+=>
+
+sqrt(-n) = sqrt(n)*i = sqrt(n)*ln(e^i)
+
+
 ## Zermelo-Set Theory Completeness Proof
 
 Geometric Reductive Proof (Symbol Ordering)
