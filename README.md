@@ -2,9 +2,9 @@
 
 EonCalc is a cython project for the brand new reductive proof (R-Algebra) method I've devised!
 
-I am calling this Informal Math. I hope this will be a competitor to numpy and pytorch.
-
 I have devised a superset of Algebra that surprisingly still keeps one critical rule, x =|x !
+
+R-Algebra can only be used to derive formulas in algebra!
 
 # Complex Number Analysis
 An Informal Number x from X is a complex number with an imaginary component restricted to R/Q.
