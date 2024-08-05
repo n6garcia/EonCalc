@@ -147,6 +147,11 @@ e^sqrt(-1) = e^i = e^ln(e^i)
 
 sqrt(-n) = sqrt(n)*i = sqrt(n)*ln(e^i)
 
+=> 
+
+e^sqrt(-1) = e^i = +/- 1 = sqrt(1)
+
+sqrt(1) = e^sqrt(-1)
 
 ## Zermelo-Set Theory Completeness Proof
 
