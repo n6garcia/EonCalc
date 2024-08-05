@@ -157,6 +157,17 @@ sqrt(n) = e^sqrt(-n)
 
 sqrt(n) = e^i^sqrt(n)
 
+=>
+
+1/2 = sqrt(1/4) # n = 1/4
+
+sqrt(-1/4) = e^sqrt(1/4) = e^i^sqrt(-1/4)
+
++/- 1/2
+
+=>
+
+sqrt(-n) = +/- sqrt(n)
 
 ## Zermelo-Set Theory Completeness Proof
 
