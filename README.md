@@ -151,15 +151,13 @@ sqrt(-n) = sqrt(n)*i = sqrt(n)*ln(e^i)
 
 e^sqrt(-1) = e^i = +/- 1 = sqrt(1)
 
-sqrt(1) = e^sqrt(-1)
-
 sqrt(n) = e^sqrt(-n)
 
 sqrt(n) = e^i^sqrt(n)
 
 =>
 
-1/2 = sqrt(1/4) # n = 1/4
+1/2 = sqrt(1/4)
 
 sqrt(-1/4) = e^sqrt(1/4) = e^i^sqrt(-1/4) = +/- sqrt(-1/4) = +/- isqrt(1/4) = +/- i1/2
 
