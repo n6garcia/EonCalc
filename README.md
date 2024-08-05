@@ -155,6 +155,8 @@ sqrt(1) = e^sqrt(-1)
 
 sqrt(n) = e^sqrt(-n)
 
+sqrt(n) = e^i^sqrt(n)
+
 
 ## Zermelo-Set Theory Completeness Proof
 
