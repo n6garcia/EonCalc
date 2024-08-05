@@ -167,7 +167,7 @@ sqrt(n) = e^sqrt(-n) = e^i^sqrt(n) = +/- sqrt(n)
 
 sqrt(-n) = +/- isqrt(n)
 
-## Zermelo-Set Theory Completeness Proof
+## Zermelo-Fermet Set Theory Completeness
 
 Geometric Reductive Proof (Symbol Ordering)
 
