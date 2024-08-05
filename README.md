@@ -137,6 +137,8 @@ sqrt(1) + 1 = 0
 
 sqrt(n*n) + n = 0 
 
++/- n + n = 0
+
 =>
 
 sqrt(-1) = i = i*pi = iln(e) = ln(-1) = ln(e^i)
