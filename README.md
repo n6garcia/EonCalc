@@ -43,7 +43,7 @@ e^2 =| 1
 
 e^2 =| +/> 1
 
-## Group Theory Proof
+## R-Algebra Group Theory Proof
 
 e^2 =| +> 1
 
