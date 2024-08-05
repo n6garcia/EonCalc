@@ -107,6 +107,28 @@ e^2 |=| x-x =| x+x
 
 e^2 =| +>x |=| 2x
 
+## Normal Algebra
+
+e^i = +/- 1 *(1)
+
+e^2 = ei *(2)
+
+e^i*pi + 1 = 0  # eulers identity
+
+(+/- 1)^pi + 1 = 0
+
+(+/- 1) + 1 = 0
+
+e^i + 1 = 0
+
+e^i = -1
+
+iln(e) = ln(-1)
+
+iln(e) = i*pi
+
+1 = i*pi
+
 ## Zermelo-Set Theory Completness Proof
 
 Geometric Reductive Proof (Symbol Ordering?)
