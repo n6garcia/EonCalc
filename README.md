@@ -57,7 +57,7 @@ e^2 =| 1-1
 
 an informal number is from the set X of informal numbers.
 
-1. e^2 - 1 =| 0 <=> 1*1 =| 0*1 =| 0 <=> 1/0 =| 0 =| 0
+i. e^2 - 1 =| 0 <=> 1*1 =| 0*1 =| 0 <=> 1/0 =| 0 =| 0
    
    -1 + e^2 =| 0
    
@@ -65,9 +65,15 @@ an informal number is from the set X of informal numbers.
    
    x =| 0
 
-2. -1 + ei =| 0 <=> x =| x
+ii. -1 + ei =| 0 <=> x =| x
 
-3. e^2 + ei =| 0 <=> {end of induction?}
+iii. e^2 + ei =| 0
+
+1. x =| x
+
+2. x =| 0
+
+3. 1/0 =| 0
 
 ## Informal R-Algebra Theory
 
