@@ -111,8 +111,6 @@ e^2 =| +>x |=| 2x
 
 e^i = +/- 1 *(1)
 
-e^2 = ei *(2)
-
 e^i*pi + 1 = 0  # eulers identity
 
 (+/- 1)^pi + 1 = 0
@@ -125,7 +123,7 @@ e^i = -1
 
 iln(e) = ln(-1)
 
-iln(e) = i*pi
+iln(e) = i*pi # ln(-1) = i*pi
 
 i = i*pi
 
