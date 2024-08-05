@@ -69,7 +69,7 @@ an informal number is from the set X of informal numbers.
 
 3. e^2 + ei =| 0 <=> {end of induction?}
 
-## Informal Number Theory
+## Informal R-Algebra Theory
 
 [ Write Here ]
 
