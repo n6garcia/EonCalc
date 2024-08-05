@@ -17,9 +17,9 @@ so ...
 
 e^2 - 1 =| x =| 0 
 
--1 + ie =| 0 
+-1 + ei =| 0 
 
-e^2 + ie =| {hard dirac} 
+e^2 + ei =| {hard dirac} 
 
 then ...
 
@@ -33,13 +33,13 @@ e^i = +/- 1
 ## Scratch R-Algebra:
 how,
 
-{hard dirac} =| 2ie
+{hard dirac} =| 2ei
 
 e^2 =| 1
 
-2ie =| e^2 + ie
+2ei =| e^2 + ei
 
-0 + 2ie =| e^2 + ie =| -1 + ie
+0 + 2ei =| e^2 + ei =| -1 + ei
 
 =>
 
@@ -49,7 +49,9 @@ e^2 =| +/> 1
 
 e^2 =| +> 1
 
-0 + 2ie =| e^2 + ie
+e^2 =| ei
+
+0 + 2ei =| e^2 + ei
 
 e^2 =| 0
 
@@ -65,21 +67,21 @@ an informal number is from the set X of informal numbers.
    
    x =| 0
 
-2. -1 + ie =| 0 <=> x =| x
+2. -1 + ei =| 0 <=> x =| x
 
-3. e^2 + ie =| 0 <=> {end of induction?}
+3. e^2 + ei =| 0 <=> {end of induction?}
 
 ## Theory/Algebra
 
 [ Write Here ]
 
-axiom 1. {hard dirac} =| 2ie =| e^2 + ie =| +/> 1 + ie
+axiom 1. {hard dirac} =| 2ei =| e^2 + ei =| +/> 1 + ei
 
 ## Informal Calculus
 
-e^2 =| +> 1 =| 1-1 =| 0 =| 1/0 =| x =| ie =| {hard dirac}
+e^2 =| +> 1 =| 1-1 =| 0 =| 1/0 =| x =| ei =| {hard dirac}
 
--< 1 |=| ie ?
+-< 1 |=| ei ?
 
 +> 1 |=| -< 1 ?
 
