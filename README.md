@@ -29,8 +29,6 @@ so,
 
 e^i = +/- 1
 
-
-## Scratch Informal Algebra:
 how,
 
 {hard dirac} =| 2ei
