@@ -43,7 +43,7 @@ e^2 =| 1
 
 e^2 =| +/> 1
 
-## R-Algebra Group Theory Proof
+## R-Algebra Group Proof
 
 e^2 =| +> 1
 
@@ -75,7 +75,7 @@ an informal number is from the set X of informal numbers.
 
 axiom 1. {hard dirac} =| 2ei =| e^2 + ei =| +/> 1 + ei
 
-## Informal Calculus
+## R-Calculus
 
 e^2 =| +> 1 =| 1-1 =| 0 =| 1/0 =| x =| ei =| {hard dirac}
 
@@ -105,7 +105,7 @@ e^2 |=| x-x =| x+x
 
 e^2 =| +>x |=| 2x
 
-## Algebra
+## Informal Algebra
 
 e^i = +/- 1 *(1)
 
