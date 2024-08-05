@@ -137,6 +137,12 @@ sqrt(1) + 1 = 0
 
 sqrt(n*n) + n = 0 
 
+=>
+
+sqrt(-1) = i = i*pi = iln(e) = ln(-1) = ln(e^i)
+
+e^sqrt(-1) = e^i = e^ln(e^i)
+
 ## Zermelo-Set Theory Completeness Proof
 
 Geometric Reductive Proof (Symbol Ordering)
