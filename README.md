@@ -30,7 +30,7 @@ so,
 e^i = +/- 1
 
 
-## Scratch R-Algebra:
+## Scratch Informal Algebra:
 how,
 
 {hard dirac} =| 2ei
@@ -45,7 +45,7 @@ e^2 =| 1
 
 e^2 =| +/> 1
 
-## Group Theory of Informal Math.
+## Group Theory Proof
 
 e^2 =| +> 1
 
@@ -71,7 +71,7 @@ an informal number is from the set X of informal numbers.
 
 3. e^2 + ei =| 0 <=> {end of induction?}
 
-## Theory/Algebra
+## Informal Number Theory
 
 [ Write Here ]
 
@@ -107,7 +107,7 @@ e^2 |=| x-x =| x+x
 
 e^2 =| +>x |=| 2x
 
-## Normal Algebra
+## Algebra
 
 e^i = +/- 1 *(1)
 
@@ -137,9 +137,9 @@ sqrt(1) + 1 = 0
 
 sqrt(n*n) + n = 0 
 
-## Zermelo-Set Theory Completness Proof
+## Zermelo-Set Theory Completeness Proof
 
-Geometric Reductive Proof (Symbol Ordering?)
+Geometric Reductive Proof (Symbol Ordering)
 
 {Endian Math} =* {Induction}
 
