@@ -37,11 +37,13 @@ e^2 =| 1
 
 2ei =| e^2 + ei
 
-0 + 2ei =| e^2 + ei =| -1 + ei
+0 + 2ei =| e^2 + ei =| 2e^2
+
+-1 + ei =| -1 + e^2 =| 0
 
 =>
 
-e^2 =| +/> 1
+e^2 =| +/> 1 ?
 
 ## R-Algebra Group Proof
 
