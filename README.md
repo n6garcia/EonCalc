@@ -13,6 +13,10 @@ scratch work:
 
 [ i 1 | 1 i ] x [ i 1 | 1 i ] = [ 0 2i | 2i 0 ]
 
+then ...
+
+[ i e | e i ] x [ i e | i e ] = [ 0 {hard dirac} | 0 {hard dirac} ]
+
 so ...
 
 -1 + ei =| 0 
@@ -20,10 +24,6 @@ so ...
 e^2 + ei =| {hard dirac} =| 2ei
 
 e^2 - 1 =| x =| 0 
-
-then ...
-
-[ i e | e i ] x [ i e | i e ] = [ 0 {hard dirac} | 0 {hard dirac} ]
 
 so,
 
