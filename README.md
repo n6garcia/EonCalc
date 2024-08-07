@@ -173,8 +173,6 @@ sqrt(-n) = +/- isqrt(n)
 
 ## i hypothesis (i is an irrational number)
 
-i = 8.13902548844
-
 e^i = cos(1) + isin(1) = +/- 1 = 0.54030230586 + isin(1)
 
 =>
