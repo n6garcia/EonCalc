@@ -6,6 +6,9 @@ I have devised a superset of Algebra that surprisingly still keeps one critical 
 
 R-Algebra can only be used to derive formulas in algebra!
 
+= | stands for R-Algebra, so if there is = | and you can prove that a chain of x = | y works in algebra thats how you can do derivation with R-Algebra.
+hard dirac is just a naming scheme for the number 2ei. | = | means something still needs further statements in between, = | is supposed to mean proven up to a reduction to algebra. so if you can fully collapse = | and | = | to each sides of an equation then you possibly have an algebraic derivation iff the result != 0.
+
 # Complex Number Analysis
 An Informal Number x from X is a complex number with an imaginary component restricted to R/Q.
 
