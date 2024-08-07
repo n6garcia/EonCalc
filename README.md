@@ -15,11 +15,11 @@ scratch work:
 
 so ...
 
-e^2 - 1 =| x =| 0 
-
 -1 + ei =| 0 
 
-e^2 + ei =| {hard dirac} 
+e^2 + ei =| {hard dirac} =| 2ei
+
+e^2 - 1 =| x =| 0 
 
 then ...
 
@@ -31,31 +31,23 @@ e^i = +/- 1
 
 how,
 
-{hard dirac} =| 2ei
-
-e^2 =| 1
-
-2ei =| e^2 + ei
-
-0 + 2ei =| e^2 + ei =| 2e^2
-
--1 + ei =| -1 + e^2 =| 0
-
-=>
-
-e^2 =| +/> 1 ?
-
-## R-Algebra Group Proof
-
-e^2 =| +> 1
+{hard dirac} =| 0 + 2ei
 
 e^2 =| ei
 
-0 + 2ei =| e^2 + ei
+-1 + ei =| -1 + e^2 =| 0 <=> e^2 =| ei =| 1
 
-e^2 =| 0
+0 + 2ei =| e^2 + ei =| 2e^2
 
-e^2 =| 1-1
+=>
+
+e^2 =| +/> 1
+
+## R-Algebra Group Proof
+
+show, e^2 =| +> 1 since e^2 =| ei
+
+e^2 =| 1-1 ?
 
 an informal number is from the set X of informal numbers.
 
@@ -81,7 +73,7 @@ iii. e^2 + ei =| 0
 
 [ Write Here ]
 
-axiom 1. {hard dirac} =| 2ei =| e^2 + ei =| +/> 1 + ei =| +/> 2
+axiom 1. {hard dirac} =| 0 + 2ei =| e^2 + ei =| +/> 1 + ei =| +/> 2
 
 ## R-Calculus
 
@@ -112,6 +104,10 @@ e^2 =| 1-1
 e^2 |=| x-x =| x+x ?
 
 e^2 =| +>x |=| 2x ?
+
+=>
+
+-< 1 |=| ei (1.)
 
 ## Informal Algebra
 
