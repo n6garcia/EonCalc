@@ -1,6 +1,6 @@
 # EonCalc
 
-EonCalc is a cython project for the brand new reductive proof (R-Algebra) method I've devised!
+EonCalc is a ctypes project for the brand new reductive proof (R-Algebra) method I've devised!
 
 I have devised a superset of Algebra that surprisingly still keeps one critical rule, x =|x !
 
