@@ -175,6 +175,18 @@ sqrt(-n) = +/- isqrt(n)
 
 i = 8.13902548844
 
+e^i = cos(1) + isin(1) = e^2 = 7.38905609893 = 0.54030230586 + isin(1)
+
+=>
+
+isin(1) = 6.84875379307
+
+sin(1) = 0.8414709848
+
+=>
+
+i = 6.84875379307 / 0.8414709848 = 8.13902548844 
+
 ## Zermelo-Fermet Set Theory Completeness
 
 Geometric Reductive Proof (Symbol Ordering)
