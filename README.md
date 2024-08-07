@@ -107,6 +107,8 @@ e^2 =| -< 1
 
 -< 1 |=| ei (1.)
 
+xei =| +> x =| -< x
+
 ## Informal Algebra
 
 e^i = +/- 1 *(1)
