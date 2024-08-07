@@ -47,11 +47,11 @@ e^2 =| +/> 1
 
 show, e^2 =| +> 1 since e^2 =| ei
 
-e^2 =| 1-1 ?
+<=> e^2 =| 1-1
 
 an informal number is from the set X of informal numbers.
 
-i. e^2 - 1 =| 0 <=> 1*1 =| 0*1 =| 0 <=> 1/0 =| 0 =| 0
+i. e^2 - 1 =| 0 <=> 1*1 =| 0*1 =| 0 <=> 1/0 =| 0
    
    -1 + e^2 =| 0
    
@@ -77,7 +77,7 @@ axiom 1. {hard dirac} =| 0 + 2ei =| e^2 + ei =| +/> 1 + ei =| +/> 2
 
 ## R-Calculus
 
-e^2 =| =| ei =| +> 1 =| 1-1 =| 0  
+e^2 =| ei =| +> 1 =| 1-1 =| 0  
 
 -< 1 |=| ei (1.)
 
