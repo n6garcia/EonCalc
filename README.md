@@ -171,6 +171,10 @@ sqrt(n) = e^sqrt(-n) = e^i^sqrt(n) = +/- sqrt(n)
 
 sqrt(-n) = +/- isqrt(n)
 
+## i hypothesis
+
+i = 8.13902548844
+
 ## Zermelo-Fermet Set Theory Completeness
 
 Geometric Reductive Proof (Symbol Ordering)
